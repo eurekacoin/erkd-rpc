@@ -1,16 +1,16 @@
 {
-  "name": "qtumd-rpc",
-  "description": "QTUM Client Library to connect to QTUM Core via RPC",
+  "name": "eurekacoind-rpc",
+  "description": "EUREKACOIN Client Library to connect to EUREKACOIN Core via RPC",
   "version": "0.0.4",
   "author": {},
   "contributors": [],
   "keywords": [
-    "qtum",
+    "eurekacoin",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtumd-rpc.git"
+    "url": "git+https://github.com/eurekacoin/eurekacoind-rpc.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -27,9 +27,9 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/qtumproject/qtumd-rpc/issues"
+    "url": "https://github.com/eurekacoin/eurekacoind-rpc/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtumd-rpc",
+  "homepage": "https://github.com/eurekacoin/eurekacoind-rpc",
   "directories": {},
   "readme": "ERROR: No README data found!"
 }
